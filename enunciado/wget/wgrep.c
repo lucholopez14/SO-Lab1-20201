@@ -1,5 +1,5 @@
-#include<stdio.h>
-#include<string.h>
+#include<stdio.h> // libreria para el desarrollo de operaciones de entrada y de salida
+#include<string.h> // libreria para el control de procesos y memoria dinamica
 
 void lectura(FILE *, char *);
 int main(int argc, char *argv[])
